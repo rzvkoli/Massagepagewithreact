@@ -5,7 +5,7 @@
 - **React**
 - **CSS**
 - **Feker library**
-- **🦄  React emojis 🎉**
+- **React emojis**
 
 
 ## A brief description of the project

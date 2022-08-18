@@ -12,3 +12,10 @@ In this project there is a main page called the Massage Page .
 There are a number of messages on this main page .
 Every time it is refreshed
 Some message information changes .
+
+## Some points about the project
+
+- Faker library is used in this project 
+Faker is a library that generates fake ( but reasonable ) data for you
+Mock data
+Data for testing development and the like .

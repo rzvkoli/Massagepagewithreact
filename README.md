@@ -21,6 +21,8 @@ Faker is a library that generates fake ( but reasonable ) data for you
 Mock data
 Data for testing development and the like .
 
+- **react-emojis** used in this project .
+
 - A font has been imported in this project .
 
 ```CSS
@@ -29,4 +31,3 @@ import url ('');
 
 ```
 
-- **react-emojis** used in this project .

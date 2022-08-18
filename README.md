@@ -16,7 +16,7 @@ The avatar and the name of the sender of the message and the time of sending are
 
 ## Some points about the project
 
-- Faker library is used in this project 
+- **Faker library** is used in this project 
 Faker is a library that generates fake ( but reasonable ) data for you
 Mock data
 Data for testing development and the like .
@@ -25,6 +25,8 @@ Data for testing development and the like .
 
 ```CSS
 
-import url (' ');
+import url ('');
 
 ```
+
+- **react-emojis** used in this project .

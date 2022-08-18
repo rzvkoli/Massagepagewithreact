@@ -4,7 +4,9 @@
 
 - **React**
 - **CSS**
-- **Feker**
+- **Feker library**
+- **React emojis**
+
 
 ## A brief description of the project
 

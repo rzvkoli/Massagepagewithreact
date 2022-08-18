@@ -21,8 +21,10 @@ Faker is a library that generates fake ( but reasonable ) data for you
 Mock data
 Data for testing development and the like .
 
-```
+- A font has been imported in this project .
 
-import { faker } from '@faker-js/faker';
+```CSS
+
+import url (' ');
 
 ```

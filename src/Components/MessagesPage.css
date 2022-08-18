@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;500;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Barlow', sans-serif;
+}
+
+body{
+    background-color: #007fce;
+}
+
+.messages-page{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 400px;
+    height: 600px;
+    background-color: #fefefe;
+    border-radius: 25px;
+    padding: 30px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.title{
+    font-weight: 700;
+    position: relative;
+    top: 15px;
+}
+
+.txt{
+    font-weight: 300;
+    position: relative;
+    top: 35px;
+    font-size: 18px;
+    color: #808080;
+}
+
+span{
+    color: #007fce;
+}
+
+.day{
+    font-weight: 700;
+    position: relative;
+    top: 50px;
+}
+
+.main{
+    position: relative;
+    top: 80px;
+}

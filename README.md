@@ -31,9 +31,9 @@ import url ('');
 
 ```
 
-# Preview
+## Preview
 
-## Desktop Mode
+### Desktop Mode
 
 ![00](https://user-images.githubusercontent.com/100797809/185325184-443985a5-e291-4e8c-bbad-c18f8961938f.png)
 ![01](https://user-images.githubusercontent.com/100797809/185325219-2702c42f-1e00-4b03-8691-e84a1f38926c.png)

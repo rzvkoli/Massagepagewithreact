@@ -8,7 +8,7 @@ export default function MessagesPage(props) {
     <div className='messages-page'>
       <header>
         <h1 className='title'>Notifications</h1>
-        <p className='txt'>You have<span> 3 Notifications </span>today .</p>
+        <p className='txt'>You have<span> 5 Notifications </span>today .</p>
         <h2 className='day'>Today</h2>
       </header>
       <div className='main'>
